@@ -1,0 +1,12 @@
+{
+  "name": "Apptest",
+  "displayName": "Apptest",
+  "expo": {
+    "name": "Apptest",
+    "slug": "Apptest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
